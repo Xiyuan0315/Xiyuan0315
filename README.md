@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Xiyuan0315
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Xiyuan0315/Xiyuan0315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Xiyuan
+- 👀 I’m interested in multimodal learning
+- 🌱 I’m currently learning bioinformatics, especially for molecular biology related computational analysis
+- 📫 Email: xiyuan315@outlook.com
